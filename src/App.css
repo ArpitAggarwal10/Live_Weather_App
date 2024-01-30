@@ -395,6 +395,9 @@ div#txt {
 }
 
 @media screen and (max-width: 966px) {
+  .temperature {
+    padding-top: 80px;
+  }
   .container {
     width: 90%;
   }
